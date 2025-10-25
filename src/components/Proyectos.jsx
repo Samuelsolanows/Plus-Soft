@@ -29,7 +29,7 @@ const Proyectos = () => {
   ];
 
   return (
-    <section className="projects-section">
+    <section id="proyectos" className="projects-section">
       <h2 className="projects-title">Proyectos Destacados</h2>
       <p className="projects-subtitle">
         Soluciones tecnológicas desarrolladas con pasión y enfoque en resultados.

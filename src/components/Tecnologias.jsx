@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./Tecnologias.css";
 
 const Tecnologias = () => {
-  const [selected, setSelected] = useState("movil");
+  const [selected, setSelected] = useState("web");
 
   const techs = {
     movil: [
@@ -45,7 +45,7 @@ const Tecnologias = () => {
   };
 
   return (
-    <section className="technologies">
+    <section id="tecnologias" className="technologies">
       <h2 className="technologies-title">Tecnologías</h2>
       <p className="technologies-subtitle">
         Herramientas que usamos para dar vida a cada proyecto.
@@ -53,17 +53,17 @@ const Tecnologias = () => {
 
       <div className="tech-buttons">
         <button
+          className={`tech-btn ${selected === "web" ? "active" : ""}`}
+          onClick={() => setSelected("web")}
+        >
+          web
+        </button>
+
+        <button
           className={`tech-btn ${selected === "movil" ? "active" : ""}`}
           onClick={() => setSelected("movil")}
         >
           Móvil
-        </button>
-
-        <button
-          className={`tech-btn ${selected === "uiux" ? "active" : ""}`}
-          onClick={() => setSelected("uiux")}
-        >
-          UX / UI
         </button>
 
         <button
@@ -74,10 +74,10 @@ const Tecnologias = () => {
         </button>
 
         <button
-          className={`tech-btn ${selected === "web" ? "active" : ""}`}
-          onClick={() => setSelected("web")}
+          className={`tech-btn ${selected === "uiux" ? "active" : ""}`}
+          onClick={() => setSelected("uiux")}
         >
-          web
+          UX / UI
         </button>
 
         <button
