@@ -1,0 +1,45 @@
+.beneficios-modernos {
+  background: linear-gradient(135deg, #f8faff, #e9f1ff);
+  padding: 80px 100px;
+  text-align: center;
+}
+
+.beneficios-modernos h2 {
+  font-size: 2.2rem;
+  color: #1b1b1b;
+  margin-bottom: 50px;
+}
+
+.beneficios-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 30px;
+}
+
+.beneficio-card {
+  background: #fff;
+  border-radius: 20px;
+  padding: 30px;
+  box-shadow: 0 8px 20px rgba(0, 123, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+.beneficio-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 25px rgba(0, 123, 255, 0.15);
+}
+
+.icono {
+  margin-bottom: 15px;
+}
+
+.beneficio-card h3 {
+  font-size: 1.3rem;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.beneficio-card p {
+  color: #555;
+  font-size: 0.95rem;
+}
