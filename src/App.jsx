@@ -6,6 +6,7 @@ import BeneficiosModernos from "./components/Beneficios";
 import Proyectos from "./components/Proyectos";
 import Tecnologias from "./components/Tecnologias";
 import About from "./components/About";
+import Contact from "./components/Contacto";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Proyectos/>
         <Tecnologias/>
         <About/>
+        <Contact/>
       </main>
     </>
   );

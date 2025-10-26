@@ -10,8 +10,6 @@
   z-index: 100;
 }
 
-
-
 .logo {
   display: flex;
   align-items: center;
@@ -39,4 +37,13 @@
   color: #fff !important;
   padding: 8px 15px;
   border-radius: 8px;
+}
+
+
+h1{
+  color: #007bff;
+}
+
+h1 :hover{
+  color: #fff;
 }

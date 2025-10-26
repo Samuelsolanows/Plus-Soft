@@ -1,5 +1,5 @@
 import "./Hero.css";
-import heroLogo from "../assets/logo.png"; // reemplázalo por la ruta correcta de tu logo
+import heroLogo from "../assets/logo.png";
 
 const Hero = () => {
   return (

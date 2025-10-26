@@ -28,17 +28,17 @@ const beneficiosData = [
     descripcion:
       "Construimos sistemas modulares que crecen contigo, facilitando la evolución de tus soluciones digitales.",
   },
-  {
-    icono: <Brain size={40} color="#007bff" />,
-    titulo: "Integracion inteligente con IA",
-    descripcion:
-      "Implementamos soluciones con inteligencia artificial para automatizar procesos, optimizar la interacción con los usuarios y mejorar la eficiencia de tu negocio.",
-  },
-  {
-    icono:<BarChart size={40} color="#007bff"/>,
-    titulo: "Escalabilidad y mantenimiento garantizado",
-    descripcion: "Nuestras soluciones están pensadas para crecer contigo: actualizables, seguras y fáciles de mantener a largo plazo."
-  }
+  // {
+  //   icono: <Brain size={40} color="#007bff" />,
+  //   titulo: "Integracion inteligente con IA",
+  //   descripcion:
+  //     "Implementamos soluciones con inteligencia artificial para automatizar procesos, optimizar la interacción con los usuarios y mejorar la eficiencia de tu negocio.",
+  // },
+  // {
+  //   icono:<BarChart size={40} color="#007bff"/>,
+  //   titulo: "Escalabilidad y mantenimiento garantizado",
+  //   descripcion: "Nuestras soluciones están pensadas para crecer contigo: actualizables, seguras y fáciles de mantener a largo plazo."
+  // }
 ];
 
 const BeneficiosModernos = () => {

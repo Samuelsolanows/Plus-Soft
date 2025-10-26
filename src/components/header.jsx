@@ -6,7 +6,6 @@ const Header = () => {
       <div className="logo">
           <img src="/logo.png" alt="Logo Plus Soft" />
           <h1>Plus Soft</h1>
-        
       </div>
 
       <nav className="nav">

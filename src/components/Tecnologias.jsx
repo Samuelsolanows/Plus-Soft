@@ -56,7 +56,7 @@ const Tecnologias = () => {
           className={`tech-btn ${selected === "web" ? "active" : ""}`}
           onClick={() => setSelected("web")}
         >
-          web
+          Web
         </button>
 
         <button
@@ -84,7 +84,7 @@ const Tecnologias = () => {
           className={`tech-btn ${selected === "basedatos" ? "active" : ""}`}
           onClick={() => setSelected("basedatos")}
         >
-          basedatos
+          Base de datos
         </button>
       </div>
 

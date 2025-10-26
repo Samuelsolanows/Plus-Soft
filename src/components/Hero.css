@@ -17,6 +17,7 @@
   line-height: 1.3;
   color: #222;
   margin-bottom: 20px;
+  text-align: start;
 }
 
 .hero-content span {
@@ -67,6 +68,10 @@
   width: 350px;
   max-width: 100%;
   animation: float 3s ease-in-out infinite;
+}
+
+p, h2{
+  text-align: left;
 }
 
 @keyframes float {
