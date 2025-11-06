@@ -36,17 +36,18 @@
   display: flex;
   flex-direction: column;
   gap: 25px;
+  text-align: start;
 }
 
 .info-block h4 {
   color: #0d1440;
-  font-size: 1rem;
+  font-size: 2rem;
   margin-bottom: 6px;
 }
 
 .info-block p {
   margin: 0;
-  font-size: 0.95rem;
+  font-size: 1.2rem;
   color: #3a3a3a;
 }
 

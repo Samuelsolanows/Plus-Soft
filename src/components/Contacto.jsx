@@ -20,8 +20,8 @@ const Contact = () => {
           <div className="info-block">
             <div>
               <h4>Dirección</h4>
-              <p>📍 Colombia, Pamplona NS</p>
-              <p>Calle 3 #3-450 Barrio El Buque</p>
+              <p>Colombia, Pamplona Norte de Santander</p>
+              <p>Calle 3 # 4-50 Centro</p>
             </div>
             <div>
               <h4>¿Cómo te podemos ayudar?</h4>

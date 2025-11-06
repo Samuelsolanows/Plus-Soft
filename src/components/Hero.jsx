@@ -1,8 +1,8 @@
 import "./Hero.css";
-import heroLogo from "../assets/logo.png";
+import heroLogo from "../assets/eslogan.png";
 
 const Hero = () => {
-  return (
+  return ( 
     <section id="inicio" className="hero">
       <div className="hero-content">
         <h2>
