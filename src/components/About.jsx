@@ -6,22 +6,22 @@ const About = () => {
       name: "Samuel Solano",
       role: "Fundador & Desarrollador Líder",
       description:
-        "Apasionado por crear soluciones tecnológicas innovadoras con enfoque en desarrollo móvil y web.",
+        "Creador de experiencia de usuarios móviles intuitivas y funcionales.",
       image: "/samuel.png",
     },
     {
-      name: "Plus Soft",
-      role: "Equipo de Innovación",
+      name: "Brayan Castillo",
+      role: "Desarrollador Backend",
       description:
-        "Un grupo de desarrolladores, diseñadores y analistas dedicados a impulsar la transformación digital local.",
-      image: "/samuel.png",
+        "Especialista en arquitecturas escalables y optimización de bases de datos.",
+      image: "/brayan.png",
     },
     {
-      name: "Plus Soft",
-      role: "Equipo de Innovación",
+      name: "Yerson Velandia",
+      role: "Desarrollador Frontend",
       description:
-        "Un grupo de desarrolladores, diseñadores y analistas dedicados a impulsar la transformación digital local.",
-      image: "/samuel.png",
+        "Experto en crear interfaces de usuario atractivas y funcionales.",
+      image: "/yerson.png",
     },
   ];
 
