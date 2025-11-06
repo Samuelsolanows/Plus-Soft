@@ -22,34 +22,6 @@ Su diseño busca transmitir profesionalismo, innovación y cercanía con el clie
 
 ---
 
-## 🧩 Estructura del proyecto
-
-📦 plussoft-portfolio
-├── 📂 public
-│ ├── 📂 icons # Íconos de tecnologías
-│ ├── 📂 images # Imágenes del sitio
-│ └── favicon.ico
-├── 📂 src
-│ ├── 📂 components # Componentes React
-│ │ ├── Header.jsx
-│ │ ├── Hero.jsx
-│ │ ├── Servicios.jsx
-│ │ ├── Beneficios.jsx
-│ │ ├── Proyectos.jsx
-│ │ ├── Tecnologias.jsx
-│ │ ├── Contacto.jsx
-│ │ └── Footer.jsx
-│ ├── 📂 styles # Archivos CSS individuales por sección
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── .gitignore
-├── package.json
-├── vite.config.js
-└── README.md
-
-
----
 
 ## ⚙️ Instalación y ejecución local
 
@@ -72,35 +44,15 @@ npm run dev
 Luego abre tu navegador en:
 👉 http://localhost:5173
 
-🧰 Tecnologías utilizadas
-<div align="center">
-Categoría	Tecnologías
-🌐 Frontend	React, Vite, JavaScript (ES6+)
-🎨 Estilos	CSS Modules, Flexbox, Grid
-⚙️ Librerías	React Hooks, Framer Motion (opcional)
-💾 Gestión	Git & GitHub
-🧠 Herramientas extra	Figma, Adobe XD, Photoshop
-</div>
-🖼️ Secciones del sitio
-Sección	Descripción
-🏠 Inicio	Presentación principal de Plus Soft
-🧰 Servicios	Áreas de desarrollo: móvil, web, escritorio, UI/UX, IA
-💡 Beneficios	Ventajas de trabajar con Plus Soft
-💼 Proyectos	Ejemplos de trabajos y soluciones realizadas
-⚙️ Tecnologías	Stack tecnológico filtrado por categoría
-📞 Contacto	Formulario y datos de comunicación
-🔻 Footer	Información institucional, redes y derechos
+## 🧰 Tecnologías utilizadas
 
-🧑‍💻 Autor
-
-👨‍💻 Samuel Solano
-Desarrollador de software y fundador de Plus Soft
-📍 Barrancas, La Guajira — Colombia
-📧 contacto@plussoft.com
-
-🌎 www.plussoft.co
-
-🪪 Licencia
+| Categoría | Tecnologías |
+|------------|-------------|
+| 🌐 **Frontend** | React, Vite, JavaScript (ES6+) |
+| 🎨 **Estilos** | CSS Modules, Flexbox, Grid |
+| ⚙️ **Librerías** | React Hooks, Framer Motion *(opcional)* |
+| 💾 **Gestión** | Git & GitHub |
+| 🧠 **Herramientas extra** | Figma, Adobe XD, Photoshop |
 
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo, modificarlo o distribuirlo libremente dando crédito a su autor original.
