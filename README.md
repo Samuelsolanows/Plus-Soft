@@ -75,32 +75,32 @@ Luego abre tu navegador en:
 🧰 Tecnologías utilizadas
 <div align="center">
 Categoría	Tecnologías
- Frontend	React, Vite, JavaScript (ES6+)
- Estilos	CSS Modules, Flexbox, Grid
- Librerías	React Hooks, Framer Motion (opcional)
- Gestión	Git & GitHub
- Herramientas extra	Figma, Adobe XD, Photoshop
+🌐 Frontend	React, Vite, JavaScript (ES6+)
+🎨 Estilos	CSS Modules, Flexbox, Grid
+⚙️ Librerías	React Hooks, Framer Motion (opcional)
+💾 Gestión	Git & GitHub
+🧠 Herramientas extra	Figma, Adobe XD, Photoshop
 </div>
-Secciones del sitio
+🖼️ Secciones del sitio
 Sección	Descripción
- Inicio	Presentación principal de Plus Soft
- Servicios	Áreas de desarrollo: móvil, web, escritorio, UI/UX, IA
- Beneficios	Ventajas de trabajar con Plus Soft
- Proyectos	Ejemplos de trabajos y soluciones realizadas
- Tecnologías	Stack tecnológico filtrado por categoría
- Contacto	Formulario y datos de comunicación
- Footer	Información institucional, redes y derechos
+🏠 Inicio	Presentación principal de Plus Soft
+🧰 Servicios	Áreas de desarrollo: móvil, web, escritorio, UI/UX, IA
+💡 Beneficios	Ventajas de trabajar con Plus Soft
+💼 Proyectos	Ejemplos de trabajos y soluciones realizadas
+⚙️ Tecnologías	Stack tecnológico filtrado por categoría
+📞 Contacto	Formulario y datos de comunicación
+🔻 Footer	Información institucional, redes y derechos
 
- Autor
+🧑‍💻 Autor
 
- Samuel Solano
+👨‍💻 Samuel Solano
 Desarrollador de software y fundador de Plus Soft
- Barrancas, La Guajira — Colombia
- contacto@plussoft.com
+📍 Barrancas, La Guajira — Colombia
+📧 contacto@plussoft.com
 
- www.plussoft.co
+🌎 www.plussoft.co
 
- Licencia
+🪪 Licencia
 
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo, modificarlo o distribuirlo libremente dando crédito a su autor original.
